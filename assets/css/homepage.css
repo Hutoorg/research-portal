@@ -1,0 +1,51 @@
+.name_discrep {
+    padding-top: 10px;
+    padding-bottom: 10px;
+  }
+  
+  .icon {
+    width: 150px;
+    height: auto;
+  }
+  
+  .name_discrep {
+    text-align: center;
+  }
+  
+  h3 {
+    padding-top: 0.5px;
+  }
+  
+  .main {
+    margin-top: 10px;
+    width: 8rem;
+    height: 35px;
+    background-color: rgb(125, 222, 255);
+    border: none;
+    border-radius: 15px;
+    color: black;
+  }
+  
+  .main:hover {
+    background-color: rgb(125, 255, 157);
+  }
+  
+  .section {
+    margin-top: 50px;
+    text-align: center;
+  }
+  
+  .ancms-grid {
+    margin-top: 3px;
+  }
+  
+  .announ {
+    text-decoration: none;
+    color: black;
+  }
+  
+  @media screen and (max-width: 800px) {
+    iframe {
+      display: none;
+    }
+  }
